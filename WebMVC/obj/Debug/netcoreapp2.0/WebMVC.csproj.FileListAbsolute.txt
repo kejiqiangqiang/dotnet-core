@@ -1,0 +1,10 @@
+E:\github.com\dotnet core\WebMVC\bin\Debug\netcoreapp2.0\WebMVC.deps.json
+E:\github.com\dotnet core\WebMVC\bin\Debug\netcoreapp2.0\WebMVC.runtimeconfig.json
+E:\github.com\dotnet core\WebMVC\bin\Debug\netcoreapp2.0\WebMVC.runtimeconfig.dev.json
+E:\github.com\dotnet core\WebMVC\bin\Debug\netcoreapp2.0\WebMVC.dll
+E:\github.com\dotnet core\WebMVC\bin\Debug\netcoreapp2.0\WebMVC.pdb
+E:\github.com\dotnet core\WebMVC\obj\Debug\netcoreapp2.0\WebMVC.csproj.CoreCompileInputs.cache
+E:\github.com\dotnet core\WebMVC\obj\Debug\netcoreapp2.0\WebMVC.AssemblyInfoInputs.cache
+E:\github.com\dotnet core\WebMVC\obj\Debug\netcoreapp2.0\WebMVC.AssemblyInfo.cs
+E:\github.com\dotnet core\WebMVC\obj\Debug\netcoreapp2.0\WebMVC.dll
+E:\github.com\dotnet core\WebMVC\obj\Debug\netcoreapp2.0\WebMVC.pdb
