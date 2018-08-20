@@ -1,0 +1,14 @@
+C:\Users\caiq\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp2.0\win10-x64\hostpolicy.dll
+C:\Users\caiq\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp2.0\win10-x64\hostfxr.dll
+C:\Users\caiq\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp2.0\win10-x64\ConsoleApp1.exe
+C:\Users\caiq\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp2.0\win10-x64\ConsoleApp1.deps.json
+C:\Users\caiq\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp2.0\win10-x64\ConsoleApp1.runtimeconfig.json
+C:\Users\caiq\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp2.0\win10-x64\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\caiq\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp2.0\win10-x64\ConsoleApp1.dll
+C:\Users\caiq\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\bin\Release\netcoreapp2.0\win10-x64\ConsoleApp1.pdb
+C:\Users\caiq\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp2.0\win10-x64\ConsoleApp1.csprojAssemblyReference.cache
+C:\Users\caiq\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp2.0\win10-x64\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\caiq\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp2.0\win10-x64\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\caiq\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp2.0\win10-x64\ConsoleApp1.AssemblyInfo.cs
+C:\Users\caiq\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp2.0\win10-x64\ConsoleApp1.dll
+C:\Users\caiq\Documents\Visual Studio 2017\Projects\ConsoleApp1\ConsoleApp1\obj\Release\netcoreapp2.0\win10-x64\ConsoleApp1.pdb

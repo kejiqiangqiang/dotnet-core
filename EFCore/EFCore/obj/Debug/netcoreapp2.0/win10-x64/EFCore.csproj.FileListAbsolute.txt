@@ -1,0 +1,15 @@
+E:\github.com\dotnet core\EFCore\EFCore\bin\Debug\netcoreapp2.0\win10-x64\hostpolicy.dll
+E:\github.com\dotnet core\EFCore\EFCore\bin\Debug\netcoreapp2.0\win10-x64\hostfxr.dll
+E:\github.com\dotnet core\EFCore\EFCore\bin\Debug\netcoreapp2.0\win10-x64\EFCore.exe
+E:\github.com\dotnet core\EFCore\EFCore\bin\Debug\netcoreapp2.0\win10-x64\EFCore.dll.config
+E:\github.com\dotnet core\EFCore\EFCore\bin\Debug\netcoreapp2.0\win10-x64\EFCore.deps.json
+E:\github.com\dotnet core\EFCore\EFCore\bin\Debug\netcoreapp2.0\win10-x64\EFCore.runtimeconfig.json
+E:\github.com\dotnet core\EFCore\EFCore\bin\Debug\netcoreapp2.0\win10-x64\EFCore.runtimeconfig.dev.json
+E:\github.com\dotnet core\EFCore\EFCore\bin\Debug\netcoreapp2.0\win10-x64\EFCore.dll
+E:\github.com\dotnet core\EFCore\EFCore\bin\Debug\netcoreapp2.0\win10-x64\EFCore.pdb
+E:\github.com\dotnet core\EFCore\EFCore\obj\Debug\netcoreapp2.0\win10-x64\EFCore.csproj.CoreCompileInputs.cache
+E:\github.com\dotnet core\EFCore\EFCore\obj\Debug\netcoreapp2.0\win10-x64\EFCore.AssemblyInfoInputs.cache
+E:\github.com\dotnet core\EFCore\EFCore\obj\Debug\netcoreapp2.0\win10-x64\EFCore.AssemblyInfo.cs
+E:\github.com\dotnet core\EFCore\EFCore\obj\Debug\netcoreapp2.0\win10-x64\EFCore.dll
+E:\github.com\dotnet core\EFCore\EFCore\obj\Debug\netcoreapp2.0\win10-x64\EFCore.pdb
+E:\github.com\dotnet core\EFCore\EFCore\obj\Debug\netcoreapp2.0\win10-x64\EFCore.csprojAssemblyReference.cache
